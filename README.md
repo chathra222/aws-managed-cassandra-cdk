@@ -1,8 +1,8 @@
 
 # Create Managed cassandra Database(Keyspaces) using AWS CDK
 
-Refer this blog for detailed instructions:
-[I'm an inline-style link] (https://dev.to/chathra222/create-aws-amazon-keyspaces-using-cdk-586h-temp-slug-8727579?preview=e2327835e4133ac9b5805ae4ebe1fa8abf76e63808dd9ab21629269aa448faadf2437b21ac9577486c45a47054f0fd1bd2ac9e209db6f2cda3e20b27)
+Refer my blog post for detailed instructions:
+https://dev.to/chathra222/create-aws-amazon-keyspaces-using-cdk-586h-temp-slug-8727579?preview=e2327835e4133ac9b5805ae4ebe1fa8abf76e63808dd9ab21629269aa448faadf2437b21ac9577486c45a47054f0fd1bd2ac9e209db6f2cda3e20b27
 
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
