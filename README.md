@@ -1,5 +1,5 @@
 
-# Create Managed cassandra Database(Keyspaces) using AWS CDK
+# Create Managed Cassandra Database(AWS Keyspaces) using AWS CDK
 
 Refer my blog post for detailed instructions:
 https://dev.to/chathra222/create-managed-cassendra-database-keyspaces-using-aws-cdk-4el4
